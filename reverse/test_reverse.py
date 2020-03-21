@@ -1,5 +1,5 @@
 import unittest
-from reverse import LinkedList
+from .reverse import LinkedList
 
 class LinkedListTests(unittest.TestCase):
   def setUp(self):
